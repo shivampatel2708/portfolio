@@ -35,7 +35,7 @@
 <div class="w3-container height" style="background-image: url('img/work.jpg');">
 	<h1 class="sectiontitle1 w3-opacity" >My Expertise</h1>
 	<h2 class="w3-opacity headings1 w3-center" >All that is not nature is Design</h2>
-	<p class="myself w3-opacity">I have a wide range of skills that include design (and working closely with designers), front-end development (HTML5, CSS3, Javascript,Bootstrap3, Jquery,AngularJS, Material UI, Sematic UI, Responsive Web Design, UX), back-end development using open source technologies (PHP, Java, C, C++), Linux , load balancing, deployment and performance tuning (Apache, MySQL and NGinx). Apart From these technologies, I have also worked on SoapUI which is an open-source web service testing application for service-oriented architectures (SOA) and representational state transfers (REST).Also worked on Java frameworks like Spring and Hibernate and have worked on build automation tools like apache maven.</p>
+	<p class="myself w3-opacity">I have a wide range of skills that include design, front-end development (HTML5, CSS3, Javascript, Bootstrap3, Jquery, AngularJS, Responsive Web Design), back-end development using open source technologies (PHP, Java, C, C++), Linux , deployment and performance tuning (Apache, MySQL and NGinx). Apart From these technologies, I have also worked on SoapUI which is an open-source web service testing application for service-oriented architectures (SOA) and representational state transfers (REST).Also worked on Java frameworks like Spring and have worked on build automation tools like apache maven.</p>
 </div>
 
 </body>
