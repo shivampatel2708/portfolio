@@ -3,8 +3,7 @@
 	height: auto;
 }
 
-p{
-	
+p{	
 margin-bottom: 100px;
 }
 
@@ -23,12 +22,12 @@ margin-top: 30px;
 }
 
 .sectiontitle1 {
-font-size: 70px !important;
+font-size: 40px !important;
 color: white !important;
 text-align: center;
-margin-top: 30px;
+font-weight: bold;
+margin-top: 20px;
 }
-
 
 .name{
 	font-size: 50px;
@@ -45,22 +44,18 @@ margin-top: 30px;
 }
 
 .headings{
-	font-size: 40px;
+	font-size: 20px;
 	/*color: white;*/
 	font-weight: bold;
-	margin-bottom: 100px;
+	margin-bottom: 50px;
 }
 
 .headings1{
-	font-size: 40px;
+	font-size: 30px;
 	color: white;
-	font-weight: bold;
-	margin-bottom: 100px;
+/*	font-weight: bold;*/
+	margin-bottom: 40px;
 }
-
-/*.w3-navbar{
-	width: 100%;
-}*/
 
 .fix{
 	background-attachment: fixed;

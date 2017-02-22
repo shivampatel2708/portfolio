@@ -27,15 +27,15 @@
 	<br></h2>
 </div>
 
-<div class="w3-container fix" >
-	<h1 class="sectiontitle w3-opacity">Latest Work</h1>
-	<h2 class="w3-opacity headings w3-center">Currently I am working at LegalRaasta Technologies Private Limited. <br>I love to code<br>Currently living in New Delhi, India</h2>
+<div class="w3-container w3-content w3-center w3-padding-32 fix" style="max-width:800px" id="band">
+	<h1 class="sectiontitle1 w3-opacity" style="color: black !important;">Latest Work</h1>
+	<h2 class="w3-opacity headings w3-center">Currently I am working at LegalRaasta Technologies Private Limited. <br>I love to code and Currently living in New Delhi, India</h2>
 </div>
 
 <div class="w3-container height" style="background-image: url('img/work.jpg');">
 	<h1 class="sectiontitle1 w3-opacity" >My Expertise</h1>
 	<h2 class="w3-opacity headings1 w3-center" >All that is not nature is Design</h2>
-	<p class="myself w3-opacity">I have a wide range of skills that include design, front-end development (HTML5, CSS3, Javascript, Bootstrap3, Jquery, AngularJS, Responsive Web Design), back-end development using open source technologies (PHP, Java, C, C++), Linux , deployment and performance tuning (Apache, MySQL and NGinx). Apart From these technologies, I have also worked on SoapUI which is an open-source web service testing application for service-oriented architectures (SOA) and representational state transfers (REST).Also worked on Java frameworks like Spring and have worked on build automation tools like apache maven.</p>
+	<p class="myself w3-opacity w3-container w3-content w3-center w3-padding-32">I have a wide range of skills that include design, front-end development (HTML5, CSS3, Javascript, Bootstrap3, Jquery, AngularJS, Responsive Web Design), back-end development using open source technologies (PHP, Java, C, C++), Linux , deployment and performance tuning (Apache, MySQL and NGinx). Apart From these technologies, I have also worked on SoapUI which is an open-source web service testing application for service-oriented architectures (SOA) and representational state transfers (REST).Also worked on Java frameworks like Spring and have worked on build automation tools like apache maven.</p>
 </div>
 
 </body>
