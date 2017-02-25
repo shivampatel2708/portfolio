@@ -91,3 +91,18 @@ footer.page-footer {
 .namemargin{
   margin-top: 85px;
 }
+
+.mainname{
+    opacity: 0.5;
+    color: black;
+    font-size: 89px;
+}
+
+.cardpic{
+  margin-top: -180px;
+}
+
+.piccard{
+   background: transparent !important;
+   box-shadow: 0 0px 0px 0 rgba(0, 0, 0, 0.14), 0 0px 0px 0 rgba(0, 0, 0, 0.0), 0 0px 0px 0px rgba(0, 0, 0, 0.0) !important;
+}

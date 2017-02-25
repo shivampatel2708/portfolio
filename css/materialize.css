@@ -4620,7 +4620,7 @@ small {
 
 .card .card-image img {
   display: block;
-  border-radius: 2px 2px 0 0;
+  border-radius: 50%;
   position: relative;
   left: 0;
   right: 0;
